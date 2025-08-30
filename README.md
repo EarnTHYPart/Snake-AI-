@@ -14,13 +14,6 @@ The project is organized into:
 
 ## Table of Contents
 - [Installation](#installation)  
-- [Usage](#usage)  
-- [Features](#features)  
-- [Dependencies](#dependencies)  
-- [Project Structure](#project-structure)  
-- [Examples](#examples)  
-- [Contributors](#contributors)  
-- [License](#license)  
 
 ---
 
